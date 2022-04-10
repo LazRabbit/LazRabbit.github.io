@@ -4,6 +4,9 @@ body {
 
 div.contentbg {
     background-color: #eee;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1.contentbg {
